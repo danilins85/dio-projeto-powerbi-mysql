@@ -1,5 +1,6 @@
 # dio-projeto-powerbi-mysql
 Em Desafio, realizado análise de relatório proposto através da Azure, Mysql, Power BI
+Porém, em nova atualização, não foi possível realizar a integração MySql no PowerBi devido à instalação no PC.
 
 use company_constraints;
 
